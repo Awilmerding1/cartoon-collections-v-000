@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(array)
   array.map do |call|
-    call.humanize
+    call.
     call << "!"
   end
 return array
